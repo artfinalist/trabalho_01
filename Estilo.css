@@ -1,0 +1,24 @@
+body {background-color: #cfcfcf;} 
+
+
+h1 {font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+    color: blue; font-size: 40px;text-align: center; }
+
+h2 {font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(85, 85, 85); font-size: 30px; text-align: left; }
+
+p {font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+    color: black; font-size: 18px; text-align: center; }
+
+ul {font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+    color: black; font-size: 18px; margin: auto;}
+
+#hobbies {display: block;
+    margin: auto; border-radius: 25px;}
+
+table {
+    margin: auto; border: 2px solid rgb(255, 255, 255); background-color: rgb(85, 85, 85); border="1" width="600"}
+
+a {font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;font-weight: bolder;
+    color: blue; font-size: 18px; text-align: center; display: block;}
+a:hover {color: red;}
