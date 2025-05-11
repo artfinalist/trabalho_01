@@ -1,3 +1,5 @@
-document.getElementById("botao").addEventListener("click", function()
-{alert("Obrigado por avaliar o meu primeiro Trabalho na faculdade!");});
+
+function mostrarMensagem() {
+      document.getElementById("mensagem").innerText = "Obrigado por avaliar o meu primeiro Trabalho na faculdade!";
+    }
 
